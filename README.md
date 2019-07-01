@@ -11,3 +11,8 @@ The python library BeautifulSoup was used to scrape the Wikipedia data from the 
 ## Results
 
 ![results](results.png)
+
+## Conclusion
+If we observe our bar chart Automotive Industry is the clear winner that generates maximum amount of revenue out of all industries, then comes the Aerospace & Defense Industry. There isn’t much difference among the rest of three  industries in terms of revenue generation. From the results it is obvious that Automotive Industry involves a lot of money around it. 
+## GitHub Repo Link
+https://github.com/44520-s19/wm-final-project-KaranamVijayKumar
